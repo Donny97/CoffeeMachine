@@ -5,7 +5,7 @@ VERSION = '1.0.0'
 DESCRIPTION = 'CoffeeMachine (An OOPs project for coffee machine backend)'
 AUTHOR = 'Jayesh Patil'
 EMAIL = 'jaiyupatil@gmail.com'
-URL = '<URL>'
+URL = 'https://github.com/Donny97/CoffeeMachine'
 REQUIREMENTS = []
 
 setup(name=NAME,
