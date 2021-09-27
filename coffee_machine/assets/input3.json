@@ -1,0 +1,39 @@
+{
+    "machine": {
+      "outlets": {
+        "count_n": 4
+      },
+      "total_items_quantity": {
+        "hot_water": 10,
+        "hot_milk": 10
+      },
+      "beverages": {
+        "Drink1": {
+          "hot_water": 2,
+          "hot_milk": 1
+        },
+        "Drink2": {
+          "hot_water": 4,
+          "hot_milk": 2
+        },
+        "Drink3": {
+          "hot_water": 2,
+          "hot_milk": 3
+        },
+        "Drink4": {
+          "hot_water": 2,
+          "hot_milk": 2
+        },
+        "Drink5": {
+          "hot_water": 1,
+          "hot_milk": 1
+        },
+        "Drink6": {
+          "hot_water": 2,
+          "hot_milk": 1
+        },
+        "SuperDrink": {
+        }
+      }
+    }
+  }
